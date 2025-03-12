@@ -7,7 +7,9 @@ The structure of this document is based on the industrial standard CRISP-DM (CRo
 - Key Performance Indicators (KPIs): Operational efficiency and customer satisfaction.
 
 2. Data Understanding
-- Data Source: Kaggle dataset (flight delays and cancellations from 2019 to 2023).
+- Data Source: Kaggle dataset available at
+
+  https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023/data?select=flights_sample_3m.csv 
 - Preliminary Analysis: Identification of missing values and inconsistencies in date and time formats.
 
 3. Data Preparation
